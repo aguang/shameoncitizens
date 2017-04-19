@@ -16,6 +16,19 @@
       <h3 class="project-hashtags">{{ site.hashtag | default: site.github.project_hashtags }}</h3>
     </section>
 
+    <nav class="site-nav">
+      {% for link in site.data.navigation.main %}
+        {% if link.url contains "http" %}
+          {% assign url = link.url %}
+        {% else %}
+          {% assign url = link.url | relative_url %}
+        {% endif %}
+        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+      {% endfor %}
+        <a class="page-link" href="/">Main</a>
+        <a class="page-link" href="how-to-divest">How to Divest</a>
+    </nav>
+
     <section class="main-content">
       {{ content }}
 
