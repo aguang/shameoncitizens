@@ -5,11 +5,11 @@ layout: default
 ### For Immediate Release
 **March 1, 2018**
 
-**Contact: August Guang, 617-276-6176 august.guang@gmail.com**
+**Contact: August Guang, august.guang@gmail.com**
 
 **Nick Katkevich, 401-559-6218, nick@thefangcollective.org**
 
-# After Months of Protests, Citizens Bank Ends Their Financing of Dakota Access Pipeline company
+# After Months of Protests, Citizens Bank Ends Their Financing of Dakota Access Pipeline Company
 
 Providence, RI - On Thursday activists and organizers with [The FANG Collective](http://thefangcollective.org/), the Shame On Citizens campaign and other groups celebrated after learning that Citizens Bank had ended their financing of Energy Transfer Partners (ETP). Citizens Bank faced waves of demonstrations last year over their dealings with ETP and their sister company Sunoco Logistics. This included a lock-down action at the Citizens Bank headquarter building in Providence on March 2, 2017 carried out by the FANG Collective. Three people were arrested as part of the action. 
 
